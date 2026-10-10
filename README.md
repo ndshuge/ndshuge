@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://ndshuge.github.io/ndshuge-galaxy/"><img src="assets/galaxy.png" alt="SHUGE GALAXY 星系作品导航的真实浏览器截图"></a>
+<a href="https://ndshuge.github.io/ndshuge-galaxy/"><img src="assets/galaxy-demo.gif" alt="SHUGE GALAXY 星系作品导航的真实浏览器动态演示"></a>
 
 **[SHUGE GALAXY · 鼠哥星系](https://ndshuge.github.io/ndshuge-galaxy/)**
 
