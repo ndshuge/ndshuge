@@ -66,6 +66,17 @@
 </tr>
 </table>
 
+### 更多值得探索的项目
+
+| 作品 | 核心亮点 | 入口 |
+| --- | --- | --- |
+| **MiceHole** | ChatGPT 对话模式 + 自托管 Windows MCP 工具，支持读取文件、运行命令与实际工程验证；不依赖额外的编码模型 API。 | [项目说明](https://github.com/ndshuge/micehole) · [V3 Release](https://github.com/ndshuge/micehole/releases/tag/v3.0.0) |
+| **哦，木木金金棋** | 有地图工坊、本地 AI 对手与独立训练实验的原创策略棋。 | [在线开局](https://ndshuge.github.io/oh-mumujinjin/) · [项目说明](https://github.com/ndshuge/oh-mumujinjin) |
+| **SHUGE PROJECT ATLAS** | 真实作品状态、展示入口与开发进度统一分类。 | [探索作品地图](https://ndshuge.github.io/shuge-project-atlas/) |
+| **山河为证** | 长征主题互动叙事公开预览，附第三方素材授权说明。 | [展览介绍](https://github.com/ndshuge/shanhe-preview#readme) |
+
+<sub>本机实验、公开预览和正式发布是不同阶段；各项目的功能和验收以相应仓库说明为准。</sub>
+
 ### 探索方向
 
 | 方向 | 正在做什么 |
